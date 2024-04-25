@@ -1,6 +1,6 @@
 # Simple-Music-Lyric-Finder
 
-This is a simple vue 3 project made for study porposes, i uses a public api for searching for song lyrics and display it in the screen
+This is a simple vue 3 project made for study porposes, it uses a public api for searching songs lyrics and display it in the screen
 
 Public api used: https://docs.ksoft.si/api/lyrics-api
 
