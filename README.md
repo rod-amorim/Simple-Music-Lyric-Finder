@@ -4,7 +4,7 @@ This is a simple vue 3 project made for study porposes, i uses a public api for 
 
 Public api used: https://docs.ksoft.si/api/lyrics-api
 
-You can try the app here -> https://rod-amorim.github.io/Simple-Music-Lyric-Finder/musicForm
+You can try the app here -> https://rod-amorim.github.io/Simple-Music-Lyric-Finder/#/musicForm
 
 ## Project setup
 ```
